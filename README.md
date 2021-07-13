@@ -1,1 +1,1 @@
-#project for platzi course of animation with CSS, minimal game
+project for platzi course of animation with CSS, minimal game
